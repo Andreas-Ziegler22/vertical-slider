@@ -58,6 +58,15 @@ body {
   background-size: cover;
 }
 
+button {
+  background-color: #fff;
+  border: none;
+  color: #aaa;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 15px;
+}
+
 .slider-container .action-buttons button {
   position: absolute;
   left: 35%;
